@@ -48,9 +48,9 @@ Users should be able to:
 
 ### What I learned
 
-HTML DOM
-Event listeners
-HTML body alignment
+- HTML DOM
+- Event listeners
+- HTML body alignment
 
 ```css
 .container {
@@ -63,9 +63,9 @@ HTML body alignment
 
 ### Continued development
 
-HTML DOM
-EVent listeners
-JavaScript
+- HTML DOM
+- EVent listeners
+- JavaScript
 
 ## Author
 

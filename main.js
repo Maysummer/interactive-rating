@@ -31,5 +31,8 @@ function thankYou(e){
 
     var oldDesign = document.querySelector('.mainRating');
     oldDesign.style.display = 'none';
+
+    submit.style.backgroundColor = 'hsl(0, 0%, 100%)';
+    submit.style.color = 'hsl(25, 97%, 53%)';
 }
 
